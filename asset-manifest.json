@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Port-Folio-react/static/css/main.5073c9c0.css",
+    "main.js": "/Port-Folio-react/static/js/main.726d883c.js",
+    "static/media/color-sharp.png": "/Port-Folio-react/static/media/color-sharp.bea361cfef80fefc2d1e.png",
+    "static/media/color-sharp2.png": "/Port-Folio-react/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/project4.png": "/Port-Folio-react/static/media/project4.efe891aa63b02187b365.png",
+    "static/media/project3.io.png": "/Port-Folio-react/static/media/project3.io.94738d844ced09716095.png",
+    "static/media/project1.io.png": "/Port-Folio-react/static/media/project1.io.38bc41af8da161971c80.png",
+    "static/media/project2.io.png": "/Port-Folio-react/static/media/project2.io.964fbd757faf8d53c25e.png",
+    "static/media/project5.io.png": "/Port-Folio-react/static/media/project5.io.cb2bb0d58a76954df44c.png",
+    "static/media/banner-bg.png": "/Port-Folio-react/static/media/banner-bg.cc1273af450504afe755.png",
+    "static/media/header-img.svg": "/Port-Folio-react/static/media/header-img.84bf93eb20488a753440bf83d27db7bb.svg",
+    "static/media/project6.io.png": "/Port-Folio-react/static/media/project6.io.857eef29b1b649044203.png",
+    "static/media/contact-img.svg": "/Port-Folio-react/static/media/contact-img.87eac2b29352fa01abb2f9510ef6ac7e.svg",
+    "static/media/revicons.eot": "/Port-Folio-react/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/Port-Folio-react/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/Port-Folio-react/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/Port-Folio-react/index.html",
+    "main.5073c9c0.css.map": "/Port-Folio-react/static/css/main.5073c9c0.css.map",
+    "main.726d883c.js.map": "/Port-Folio-react/static/js/main.726d883c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5073c9c0.css",
+    "static/js/main.726d883c.js"
+  ]
+}

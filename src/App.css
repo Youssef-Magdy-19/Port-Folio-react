@@ -21,6 +21,11 @@ section{
   width: 90% !important;
   margin: auto !important;
 }
+.header{
+  display: flex;
+  flex-direction: row ;
+  justify-content: space-between !important;
+}
 .container{
   width: 84% ;
   margin: auto !important;
@@ -34,8 +39,8 @@ section{
 .scrolled{
   background-color: #121212;
   padding: 0 !important;
+  margin: 0px !important;
 }
-
 .navbar-brand , .footer h2{
   font-size: 30px;
   font-weight: 600
@@ -199,7 +204,7 @@ section{
 /* projects */
 .my-projects{
   color: white;
-  margin-top: 375px !important;
+  margin-top: 385px !important;
   position: relative;
   height: fit-content !important;
 }
@@ -449,8 +454,14 @@ textarea{
   .container{
     width: 92% ; 
   }
+  .header{
+    flex-direction: column;
+  }
   .skills{
     width: 90%;
+  }
+  .my-projects{
+    margin-top: 430px !important;
   }
 }
 @media(max-width:567px){
@@ -463,20 +474,18 @@ textarea{
   .skills{
     width: 88%;
   }
-  .my-projects{
-    margin-top: 400px !important;
-  }
+  
 }
 @media(max-width:415px){
-   .header{
+   .you{
     flex-direction: column !important;
     
    }
-   .open-close{
+   /* .open-close{
     margin-left: auto;
     margin-top: -20px !important;
 
-   }
+   } */
   .homePage h1{
     font-size: 55px;
   }

@@ -50,11 +50,16 @@ export const Header = () => {
   return (
 
       <Navbar expand="md" className={scrolled ? "scrolled" : "navbar"} >
-          <header className="header d-flex justify-content-between p-0 m-0">
-            <Navbar.Brand href="/">
-            <h2 class="navbar-brand text-white" href="/">PortFolio</h2>
-            </Navbar.Brand>
-            <div className="d-flex justify-content-between">
+          <header className="header  p-0 m-0">
+            <div className="d-flex justify-content-between ">
+              <Navbar.Brand href="/" className="link-brand">
+              <h2 class="navbar-brand text-white mt-0" href="/">PortFolio</h2>
+              </Navbar.Brand>
+              <Navbar.Toggle aria-controls="basic-navbar-nav" className="bg-white open-close h-50 ">
+                    <span className="navbar-toggler-icon bg-white"></span>
+              </Navbar.Toggle>
+            </div>
+            <div className="you d-flex justify-content-between">
               
               <Navbar.Collapse id="basic-navbar-nav">
                   <Nav className="ms-auto me-3  mb-lg-0">
@@ -82,9 +87,7 @@ export const Header = () => {
 
                   </div>
               </Navbar.Collapse>
-              <Navbar.Toggle aria-controls="basic-navbar-nav" className="bg-white open-close h-50 ">
-                  <span className="navbar-toggler-icon bg-white "></span>
-              </Navbar.Toggle>
+              
             </div>
           </header>
       </Navbar>

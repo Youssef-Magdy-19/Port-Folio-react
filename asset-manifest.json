@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Port-Folio-react/static/css/main.5073c9c0.css",
-    "main.js": "/Port-Folio-react/static/js/main.726d883c.js",
+    "main.css": "/Port-Folio-react/static/css/main.df7930de.css",
+    "main.js": "/Port-Folio-react/static/js/main.b08d1952.js",
     "static/media/color-sharp.png": "/Port-Folio-react/static/media/color-sharp.bea361cfef80fefc2d1e.png",
     "static/media/color-sharp2.png": "/Port-Folio-react/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
     "static/media/project4.png": "/Port-Folio-react/static/media/project4.efe891aa63b02187b365.png",
@@ -17,11 +17,11 @@
     "static/media/revicons.ttf": "/Port-Folio-react/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/revicons.woff": "/Port-Folio-react/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/Port-Folio-react/index.html",
-    "main.5073c9c0.css.map": "/Port-Folio-react/static/css/main.5073c9c0.css.map",
-    "main.726d883c.js.map": "/Port-Folio-react/static/js/main.726d883c.js.map"
+    "main.df7930de.css.map": "/Port-Folio-react/static/css/main.df7930de.css.map",
+    "main.b08d1952.js.map": "/Port-Folio-react/static/js/main.b08d1952.js.map"
   },
   "entrypoints": [
-    "static/css/main.5073c9c0.css",
-    "static/js/main.726d883c.js"
+    "static/css/main.df7930de.css",
+    "static/js/main.b08d1952.js"
   ]
 }
